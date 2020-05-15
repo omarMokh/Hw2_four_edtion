@@ -5,8 +5,8 @@
 
 
 #include "Algorithm.h"
-#include "../interfaces/AlgorithmRegistration.h"
-REGISTER_ALGORITHM(Algorithm)
+#include "AlgorithmRegistration.h"
+//REGISTER_ALGORITHM(Algorithm)
 
 /*
  * remove the duplicates container id from the array
